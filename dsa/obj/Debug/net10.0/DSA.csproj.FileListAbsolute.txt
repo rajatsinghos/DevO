@@ -1,0 +1,14 @@
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\DSA.AssemblyInfoInputs.cache
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\DSA.AssemblyInfo.cs
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\bin\Debug\net10.0\DSA.exe
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\bin\Debug\net10.0\DSA.deps.json
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\bin\Debug\net10.0\DSA.runtimeconfig.json
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\bin\Debug\net10.0\DSA.dll
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\bin\Debug\net10.0\DSA.pdb
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\DSA.dll
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\refint\DSA.dll
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\DSA.pdb
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\DSA.genruntimeconfig.cache
+C:\Users\Rajat\OneDrive\Desktop\ASP.NET CORE PROJECT\DSA\obj\Debug\net10.0\ref\DSA.dll
